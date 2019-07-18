@@ -5,6 +5,7 @@
 
 #### More convenient and easy to use android Log manager
 
+
 ## 1. Features
 * 支持直接打印数据集合, 如List、Set、Map、数组等
 * 全局配置log输出, 个性化设置Tag
